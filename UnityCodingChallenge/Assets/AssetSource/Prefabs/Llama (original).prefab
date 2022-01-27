@@ -585,7 +585,7 @@ GameObject:
   - component: {fileID: 615088111399922472}
   - component: {fileID: 5616991138297658424}
   m_Layer: 0
-  m_Name: Llama
+  m_Name: Llama (original)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

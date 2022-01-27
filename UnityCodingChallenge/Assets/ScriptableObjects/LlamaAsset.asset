@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efdf2cf232a0d754fae80a8f2ba0d5f4, type: 3}
+  m_Name: LlamaAsset
+  m_EditorClassIdentifier: 
+  LlamaMaterialList:
+  - {fileID: 2100000, guid: 13d425c01588d424a87dd98277630439, type: 2}
+  - {fileID: 2100000, guid: 92fb205b9abe97c408d57ede412a3c0f, type: 2}
+  - {fileID: 2100000, guid: d061812ced865104bb15fd3e365b178c, type: 2}
+  PenItemSafeColor: {r: 0.9019608, g: 0.654902, b: 0.45882353, a: 1}
+  PenItemWarningColor: {r: 0.9019608, g: 0.45882353, b: 0.45882353, a: 1}

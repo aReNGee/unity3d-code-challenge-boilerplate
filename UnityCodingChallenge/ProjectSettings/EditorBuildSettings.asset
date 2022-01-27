@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/AssetSource/Scenes/ExampleScene.unity
-    guid: ff09c31ad1e1ae44c8a2939b67d1180f
+    path: Assets/CodingChallenge/Scenes/CodingChallengeScene.unity
+    guid: 5c2ce664559c89247a9be34318130d6c
+  - enabled: 1
+    path: Assets/CodingChallenge/Scenes/GeneralStore.unity
+    guid: ebfb212c2dcd3214e977967dc4131dae
   m_configObjects: {}

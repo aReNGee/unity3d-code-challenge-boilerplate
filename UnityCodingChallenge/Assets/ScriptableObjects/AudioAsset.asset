@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f02b110799c38a4db707621fc3d8eac, type: 3}
+  m_Name: AudioAsset
+  m_EditorClassIdentifier: 
+  BackgroundMusicData:
+    HumanReadableName: BGM
+    AudioClip: {fileID: 8300000, guid: 09679775b6ebe254e844ca10400bcbea, type: 3}
+    AudioMixerGroup: {fileID: -8551804060256681987, guid: cc5ada824a21cfe44863cd25f9927f85,
+      type: 2}
+  SoundEffectList:
+  - HumanReadableName: Footsteps
+    AudioClip: {fileID: 8300000, guid: 8afbb726d46163f4392647f6e953f539, type: 3}
+    AudioMixerGroup: {fileID: -5512997268956288399, guid: cc5ada824a21cfe44863cd25f9927f85,
+      type: 2}
+  - HumanReadableName: Llama Capture
+    AudioClip: {fileID: 8300000, guid: 7591c2f0b9124e647950d3d58905282b, type: 3}
+    AudioMixerGroup: {fileID: 1979823316528580422, guid: cc5ada824a21cfe44863cd25f9927f85,
+      type: 2}
+  - HumanReadableName: Coin Collect
+    AudioClip: {fileID: 8300000, guid: e330f2958ccfdbc48bd702910cbbab2f, type: 3}
+    AudioMixerGroup: {fileID: -5512997268956288399, guid: cc5ada824a21cfe44863cd25f9927f85,
+      type: 2}
+  - HumanReadableName: Open Inventory
+    AudioClip: {fileID: 8300000, guid: 27c8d05205daebd4e9386ae0a3bcf382, type: 3}
+    AudioMixerGroup: {fileID: 7576235936434974075, guid: cc5ada824a21cfe44863cd25f9927f85,
+      type: 2}
+  - HumanReadableName: Close Inventory
+    AudioClip: {fileID: 8300000, guid: 2cfe31bd25480fa4184ff3a6f4856b0d, type: 3}
+    AudioMixerGroup: {fileID: 7576235936434974075, guid: cc5ada824a21cfe44863cd25f9927f85,
+      type: 2}
+  - HumanReadableName: LlamaFeedSuccessful
+    AudioClip: {fileID: 8300000, guid: 5f17cbf980ad98646aa52d56b67f654a, type: 3}
+    AudioMixerGroup: {fileID: 7576235936434974075, guid: cc5ada824a21cfe44863cd25f9927f85,
+      type: 2}
+  - HumanReadableName: LlamaFeedFail
+    AudioClip: {fileID: 8300000, guid: 96d314255593b5c408eba1f353c20fb3, type: 3}
+    AudioMixerGroup: {fileID: 7576235936434974075, guid: cc5ada824a21cfe44863cd25f9927f85,
+      type: 2}
+  - HumanReadableName: ShopPurchaseSuccessful
+    AudioClip: {fileID: 8300000, guid: f6d087621994d454385de6a543f47947, type: 3}
+    AudioMixerGroup: {fileID: 7576235936434974075, guid: cc5ada824a21cfe44863cd25f9927f85,
+      type: 2}
+  - HumanReadableName: ShopPurchaseFail
+    AudioClip: {fileID: 8300000, guid: 058d8a67e3782a14ba3b3af35fd44a38, type: 3}
+    AudioMixerGroup: {fileID: 7576235936434974075, guid: cc5ada824a21cfe44863cd25f9927f85,
+      type: 2}
